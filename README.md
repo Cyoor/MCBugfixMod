@@ -22,5 +22,5 @@ Code to be taken a look at in the future:
     Client:
         -   See if it is possible to optimize the code for rendering itemframes to make them produce less lagg.
    
-    Server: 
+    Server:
         -   See if it is possible to optimize the mob pathfinding. (Especially zombies, since they tend to cause a lot of server problems)
