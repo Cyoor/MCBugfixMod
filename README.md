@@ -5,7 +5,7 @@ Mod for vanilla MC trying to fix bugs and problems in the regular game.
 
 Original authors:
 - Cyoor - code@cyoor.se
-- Daemonbrandt extra
+- Daemonbrandt
 
 ===========
 
