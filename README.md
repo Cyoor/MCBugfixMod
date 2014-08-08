@@ -4,7 +4,9 @@ MCBugfixMod
 Mod for vanilla MC trying to fix bugs and problems in the regular game.
 
 Original authors:
-* Cyoor - code@cyoor.se
+- Cyoor - code@cyoor.se
+
+===========
 
 * Goals:
   - Aiming at taking bugs from the MC bugtracker and solve them while still keeping it as vanilla as possible.
